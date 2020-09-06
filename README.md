@@ -7,7 +7,7 @@
   
   :man_student: I'm a Recent Software Engineer graduate from SCE.
   
-  :technologist: In my spare time I enjoy exploring and learning about new discoveries and technologies. 
+  :technologist: In my spare time I enjoy exploring and learning about new discoveries and new technologies. 
   
   :man_technologist: At the moment, I'm working on my own personal web development projects, as well as looking into my first steps in the tech world.
 
