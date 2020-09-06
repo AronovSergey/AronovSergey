@@ -22,8 +22,6 @@ These are some of the languages and technologies that I've used in the past and 
 - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 - ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 - ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-- ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 
 ### Technologies
 
@@ -31,4 +29,3 @@ These are some of the languages and technologies that I've used in the past and 
 - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 - ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 - ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-- ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
