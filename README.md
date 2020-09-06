@@ -14,7 +14,7 @@
 
 ## Languages and Technologies
 
-These are some of the languages and technologies that I've used in the past and that I am using currenly
+These are some of the languages and technologies that I've used in the past and that I am currenly using :
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
