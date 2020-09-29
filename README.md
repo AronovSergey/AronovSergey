@@ -2,7 +2,7 @@
 
   <img align='left' src="https://user-images.githubusercontent.com/43394177/93125640-1ee44f00-f6d4-11ea-82e8-29b7c7e59b4e.jpeg" width="230">
   
-  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lodsergeyy@gmail.com)
+  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aronovsergeyy@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-aronov-61a93a16a/)
   
   :boy: My name is Sergey Aronov and I'm from Central Israel. 
